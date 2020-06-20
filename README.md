@@ -6,6 +6,8 @@ Kristina Kleutghen
 David W. Mesker Associate Professor of Art History & Archaeology
 Washington University in St. Louis (WUSTL)
 
+
+
 Summer 2020 Team Members:
 
 Haley Harris '2022
