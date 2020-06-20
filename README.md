@@ -1,2 +1,2 @@
-# HDW_Local_Exotic
+# HDW
 Humanities Digital Workshop (WUSTL)
