@@ -1,14 +1,13 @@
-# HDW
-Humanities Digital Workshop: Project Kleutghen (Local Exotic - Jades)
+## Your GitHub Learning Lab Repository for Communicating Using Markdown
 
-Kristina Kleutghen, David W. Mesker Associate Professor of Art History & Archaeology
+Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
-Washington University in St. Louis (WUSTL)
+Oh! I haven't introduced myself...
 
-Summer 2020 Team Members:
+I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
-Haley Harris '2022
+![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-Gloria Jin '2023
+I'll meet you over there, can't wait to get started!
 
-Lingran Zhang '2021
+This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
