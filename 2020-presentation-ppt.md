@@ -20,4 +20,3 @@
 ![image](https://github.com/xgloria/pic-HDW-2020/blob/master/2020%20HDW%20Presentation%20Slides-19-finver.png)
 ![image](https://github.com/xgloria/pic-HDW-2020/blob/master/2020%20HDW%20Presentation%20Slides-20-finver.png)
 ![image](https://github.com/xgloria/pic-HDW-2020/blob/master/2020%20HDW%20Presentation%20Slides-21-finver.png)
-![image](https://github.com/xgloria/pic-HDW-2020/blob/master/2020%20HDW%20Presentation%20Slides-22-finver.png)
